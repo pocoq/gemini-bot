@@ -1,0 +1,6 @@
+python-telegram-bot
+google-generativeai
+Pillow
+python-dotenv
+aiohttp
+asyncio
